@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.pngkey.com/png/full/366-3663131_auto-insurance-auto-insurance-industry.png" alt="auto Insurance Industry logo" style="height: 300px; width:300px;"/> </p>
+<img src="https://www.pngkey.com/png/full/366-3663131_auto-insurance-auto-insurance-industry.png" alt="auto Insurance Industry logo" style="height: 200px; width:350px;"/> </p>
 
 #  Auto Insurance Industry
 
